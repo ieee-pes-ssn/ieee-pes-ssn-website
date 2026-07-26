@@ -98,7 +98,7 @@ export default function Team() {
       role: "SECRETARY",
       name: "Harinath Vaitheeswar S",
       yearDept: "3rd yr EEE",
-      image: "client/public/team/Harinath.jpeg",
+      image: "/team/Harinath.jpeg",
     },
   ];
 
